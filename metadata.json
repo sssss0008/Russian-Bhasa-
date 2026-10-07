@@ -1,0 +1,6 @@
+{
+  "name": "Russian Bhasa",
+  "description": "Learn Russian language with Cyrillic alphabet, grammar, vocabulary, audio pronunciation, quizzes, culture & history in Russian, Nepali, and English.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
